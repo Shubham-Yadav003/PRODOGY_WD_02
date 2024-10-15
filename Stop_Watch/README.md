@@ -1,4 +1,4 @@
-# CodeClause_Web-Development
+
 ## 📖 Task 2 - Stopwatch and Timer
 
 <br><b>Stopwatch project</b>, designed as a part of internship  Web Development and Designing </b>,is a dynamic website which can be used to perform operations like:
@@ -25,24 +25,9 @@ Front-End
 ## 👀 Screenshots
 
 
-## ✍ Author
 
-- [Ishu khan](https://github.com/ishukhan)
 
 <br>
-
-## 📌 Features / Contributions
- - Any contributions you make are *greatly appreciated*
- - Would be glad to hear about *new features* to add in the website
-
-<br>
-
-
-## 🛡 License
-
-You may use this project freely at your own risk. See [LICENSE](https://choosealicense.com/licenses/mit/).
-
-    Copyright (c) 2022 Ishu Khan
 
 
 
